@@ -541,7 +541,7 @@ echo '</h3>
             <div class="col-xl-8 mb-4 mt-4 d-flex ">
               <div class="d-flex h-px-50 w-100">
                 <div class="w-100 m-20px">
-                <input class="form-control" type="text" id="referral-link" value="http://localhost/raccoon%20websites/CashOut.com/register.php?referral_code=';
+                <input class="form-control" type="text" id="referral-link" value="http://cashout.co.ke/register.php?referral_code=';
 echo "$referral_code";
 echo '" readonly="">
               </div>
